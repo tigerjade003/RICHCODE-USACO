@@ -20,10 +20,10 @@ public class fencepainting {
         c = Integer.parseInt(ln.nextToken());
         d = Integer.parseInt(ln.nextToken());
         boolean[] painted = new boolean[101];
-        for(int i = a; i<=b; i++){
+        for(int i = a; i<b; i++){
             painted[i] = true;
         }
-        for(int i = c; i<=d; i++){
+        for(int i = c; i<d; i++){
             painted[i] = true;
         }
         int answer = 0;
