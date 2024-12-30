@@ -1,5 +1,5 @@
-package bronze_jan_2016;
-
+//problem link:https://usaco.org/index.php?page=viewproblem2&cpid=591
+//video link: TBA
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
