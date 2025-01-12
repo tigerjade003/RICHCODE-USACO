@@ -1,5 +1,5 @@
 //Problem link: https://usaco.org/index.php?page=viewproblem2&cpid=615
-//Video link: TBA
+//Video link: https://www.youtube.com/watch?v=HHPXgznrJ6s
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
